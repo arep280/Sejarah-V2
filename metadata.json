@@ -1,0 +1,8 @@
+{
+  "name": "Sejarah Pendidikan Malaysia - Muzium Digital 3D",
+  "description": "Portal Interaktif: Pengintegrasian Teknologi Secara Kreatif dan Bermakna Memperkasa Naratif Sejarah Pendidikan dan Pembinaan Negara Bangsa.",
+  "requestFramePermissions": [
+    "CAMERA"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
